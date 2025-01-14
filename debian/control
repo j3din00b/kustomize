@@ -2,8 +2,8 @@ Source: kustomize
 Section: admin
 Priority: optional
 Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
-Build-Depends: debhelper-compat (= 13), dh-golang, golang-go (>= 1.21)
-Standards-Version: 4.7.2
+Build-Depends: debhelper-compat (= 13), dh-golang, golang-go (>= 1.22.7)
+Standards-Version: 4.7.0
 Homepage: https://kustomize.io/
 Vcs-Browser: https://gitlab.com/kaisenlinux/packages/kustomize
 Vcs-Git: https://gitlab.com/kaisenlinux/packages/kustomize.git
